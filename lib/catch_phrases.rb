@@ -14,7 +14,7 @@ def link
   puts phrase
 end
 
-def all_phrases
+def all_phrases(phrase)
   phrease = "puts out all of the previous catch phrases" 
   puts phrase
 end
