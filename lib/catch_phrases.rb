@@ -15,5 +15,5 @@ def link
 end
 
 def all_phrases
- 
+  phrease = "puts out all of the previous catch phrases" 
 end
